@@ -1,0 +1,50 @@
+th{
+  background-color: #408bc9;
+
+
+}
+
+
+td{
+  padding: 5px;
+}
+h1{
+  margin-left: 50vh;
+  font-weight: bold;
+}
+button{
+  margin-left: 40%;
+}
+table{
+
+  background-color: #94DBF5;
+  border: 2px solid black;
+  table-layout: fixed;
+}
+table td{
+  overflow: hidden;
+}
+headerStyle{
+     width: auto;
+    height: auto;
+    background-color: blue;
+    overflow:auto;
+}
+body{
+  font-family: 'Merriweather', serif;
+  background-color: ;
+}
+StyleH{
+ margin-left: 50;
+ height: 10px;
+}
+
+@media print {
+  .printStyle{
+    display: none;
+  }
+
+}
+.jumbotron{
+  background-color: pink;
+}
